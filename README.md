@@ -110,12 +110,8 @@ Passionate about building scalable applications, backend architectures, and AI-p
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senthil455&theme=tokyonight" />
-</p>
 
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senthil455&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senthil455&theme=tokyonight" />
 </p>
 
 <p align="center">
