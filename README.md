@@ -1,124 +1,141 @@
-# Hi 👋 I'm Senthil Raja R
+<h1 align="center">Hi, I'm Senthil Raja R</h1>
 
-🚀 **Full Stack Developer | AI Automation Enthusiast**  
-I design and build **scalable web applications**, **microservices‑based systems**, and **AI‑powered automation workflows** that solve real‑world problems. My work bridges backend architecture, frontend UX, and intelligent automation to create robust, user‑centric products.
+<h3 align="center">Full Stack Developer • AI Automation Enthusiast • System Design Learner</h3>
 
----
-
-## 🧠 About Me
-
-I’m a full‑stack developer with a strong focus on **system design, data‑driven applications, and automation**. I enjoy turning complex business logic into clean, maintainable code while experimenting with modern frameworks and cloud‑native patterns.
-
-Key interests:
-- Scalable backend systems and microservices.  
-- Event‑driven architectures and message brokers.  
-- AI‑driven automation for productivity and business workflows.  
-- Clean, consistent developer experience and documentation.
+<p align="center">
+Passionate about building scalable applications, backend architectures, and AI-powered automation systems that solve real-world problems.
+</p>
 
 ---
 
-## 🔧 Tech Stack
+##  About Me
+* Full-stack developer focused on building clean, scalable, and efficient systems.
+* Interested in backend engineering, automation workflows, and cloud-native applications.
+* I enjoy transforming complex ideas into practical digital solutions.
+* Constantly learning modern technologies, architecture patterns, and developer tools.
 
-### 💻 Languages
-- **Python** – FastAPI, Flask, data scripting, AI integrations.  
-- **JavaScript/TypeScript** – Node.js, React, Next.js.  
-- **PHP** – Backend services and legacy system integration.  
-- **C / C++** – Systems‑level concepts and performance‑critical logic.  
+<table>
+<tr>
 
-### 🌐 Frontend
-- **HTML5 / CSS** – Semantic, responsive UI foundations.  
-- **React.js** – Component‑based single‑page applications.  
-- **Next.js** – Server‑side rendering and static‑site generation.  
-- **Tailwind CSS** – Utility‑first, design‑system‑friendly styling.  
+<td valign="top" width="50%">
 
-### ⚙️ Backend
-- **Node.js (Express)** – API Gateway and lightweight services.  
-- **Python (Flask, FastAPI)** – REST APIs, microservices, and AI integrations.  
-- **PHP** – Backend logic for structured web applications.  
+## 🔥 Areas of Interest
 
-### 🗄️ Databases
-- **PostgreSQL** – Relational data, transactions, and reporting.  
-- **MongoDB** – Flexible document‑oriented storage.  
-- **MySQL** – Traditional relational patterns and legacy systems.  
+- Scalable Backend Systems  
+- Microservices Architecture  
+- AI & Workflow Automation  
+- Event-Driven Systems  
+- API Design & System Architecture  
+- Full-Stack Product Development  
 
-### 🤖 AI & Automation
-- **n8n** – Visual workflow automation and integrations.  
-- **OpenAI API** – Natural language processing and generative AI use cases.  
-- **Zoho** – CRM and workflow automation for business operations.  
+</td>
 
-### 🛠️ Tools & DevOps
-- **Git / GitHub** – Version control, project management, and CI/CD foundation.  
-- **Docker** – Containerization for reproducible environments.  
-- **Postman** – API design, testing, and documentation.  
-- **VS Code** – Primary development environment with modern tooling.  
+<td valign="top" width="50%">
 
----
+## ⚡ What I Do
 
-## 🔥 Featured Projects
+- 🚀 Develop scalable full-stack web applications  
+- ⚙️ Design REST APIs & backend services  
+- 🤖 Build AI-powered automation workflows  
+- ☁️ Work with cloud-native development patterns  
+- 🧩 Solve real-world problems through technology  
 
-### 🧠 Atlas Workforce System
+</td>
 
-**Polyglot microservices platform for workforce management**  
-A distributed, event‑driven system built with **Node.js (API Gateway)**, **Python (FastAPI)**, **Java (Spring Boot)**, and **Go (Golang)**, using **Docker, RabbitMQ, MongoDB, PostgreSQL, Redis, and Elasticsearch**.  
+</tr>
+</table>
 
-- Manages employee onboarding, payroll processing, and real‑time notifications.  
-- Uses an API Gateway pattern for centralized routing and future security.  
-- Implements event‑driven communication via RabbitMQ for decoupled services.  
+# 🛠 Tech Stack
 
-🔗 [View Project](https://github.com/Senthil455/Atlas-Workforce-System)
+## 👨‍💻 Languages
 
----
-
-### 💬 Vibe‑Chats
-
-**Real‑time messaging platform**  
-A chat application built with **React/Next.js** and backend services that supports:
-
-- Personal one‑to‑one chats.  
-- Group chats and channels.  
-- Persistent messaging and basic user presence.  
-
-🔗 [View Project](https://github.com/Senthil455/Vibe-Chats)
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ---
 
-### 🎓 Quiz Master
+## 🌐 Frontend Development
 
-**Role‑based quiz platform**  
-A full‑stack quiz system with **student, teacher, and admin roles**, built with backend logic and a structured UI.
-
-- Role‑based access and authentication‑inspired flows.  
-- Question management, scoring, and result tracking.  
-- Good practice for state‑managed UI and backend‑driven data flows.  
-
-🔗 [View Project](https://github.com/Senthil455/Quiz-Master)
-
----
-
-## 📈 Currently Learning
-
-- **Advanced Backend Systems**  
-  - Deepening my understanding of concurrency, caching, and distributed data consistency.  
-- **Microservices Architecture**  
-  - Service discovery, API Gateways, message brokers, and resilience patterns.  
-- **Cloud & DevOps**  
-  - Deployment on AWS/GCP, container orchestration, CI/CD pipelines, and observability.  
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 📚 What This Profile Shows
+## ⚙️ Backend Development
 
-- **Architecture‑aware mindset**: Projects like *Atlas Workforce System* demonstrate you can design and implement multi‑service, polyglot systems, not just isolated CRUD apps.  
-- **Full‑stack breadth**: You are comfortable across frontend, backend, databases, and infrastructure (Docker), which is attractive to startups and product‑focused teams.  
-- **Automation focus**: Use of n8n and AI APIs hints at **productivity‑oriented thinking** and potential for internal tools or SaaS‑style features in future roles.  
-- **Clean documentation habit**: Your project structure and README‑style thinking already show you treat your repos as portfolio‑grade artifacts.
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 🗄️ Databases & Cloud
 
-- 📧 **Email**: [senthilrajasen637@gmail.com](mailto:senthilrajasen637@gmail.com)  
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/senthil-raja-r-a29839329/](https://www.linkedin.com/in/senthil-raja-r-a29839329/)  
-- 🐙 **GitHub**: [https://github.com/Senthil455](https://github.com/Senthil455)
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
+---
+
+## 🤖 AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senthil455&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senthil455&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senthil455&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senthil455&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="mailto:senthilrajasen637@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/senthil-raja-r-a29839329/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
