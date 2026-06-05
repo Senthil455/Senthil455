@@ -31,7 +31,7 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://kommodo.ai/i/BAGTPglVK16fgc4vx3n1" alt="Developer illustration" />
+<img align="right" width="260" src="https://i.postimg.cc/j2YM4W9x/ceb8c8832fd44c459c425ec5a940da4a.png" alt="Developer illustration" />
 
 Hi, I am **Senthil Raja R**, an AI Automation Engineer and Backend Developer based in Chennai, India. I build AI-powered automation workflows, conversational AI applications, and scalable backend systems that solve real problems.
 
