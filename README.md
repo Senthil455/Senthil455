@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://senthil-raja-r.netlify.app">
+  <a href="https://senthilrajar.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-senthil--raja--r.netlify.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/senthil-raja-r-a29839329/">
