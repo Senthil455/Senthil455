@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://senthilrajar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-senthil--raja--r.netlify.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-senthilrajar.netlify.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/senthil-raja-r-a29839329/">
     <img src="https://img.shields.io/badge/LinkedIn-Senthil%20Raja%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
