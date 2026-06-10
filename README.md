@@ -31,7 +31,7 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding animation" />
 
 Hi, I am **Senthil Raja R**, an AI Automation Engineer and Backend Developer based in Chennai, India. I build AI-powered automation workflows, conversational AI applications, and scalable backend systems that solve real problems.
 
