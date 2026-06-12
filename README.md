@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://senthil-raja-r.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-senthil--raja--r.netlify.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://senthilrajar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-senthilrajar.netlify.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/senthil-raja-r-a29839329/">
     <img src="https://img.shields.io/badge/LinkedIn-Senthil%20Raja%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,7 +31,7 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding animation" />
 
 Hi, I am **Senthil Raja R**, an AI Automation Engineer and Backend Developer based in Chennai, India. I build AI-powered automation workflows, conversational AI applications, and scalable backend systems that solve real problems.
 
