@@ -137,6 +137,9 @@ Hi, I am **Senthil Raja R**, an AI Automation Engineer and Backend Developer bas
       </a>
       <br /><br />
       <a href="https://leetcode.com/u/senthilrajar/">
+        <img src="https://raw.githubusercontent.com/ChinemeremChigbo/LeetCode-Badges/main/Media/Badges/Annual-Medals/GIF/2026-100-lg.gif" alt="LeetCode 100 Days 2026" width="80" />
+      </a>
+      <a href="https://leetcode.com/u/senthilrajar/">
         <img src="https://raw.githubusercontent.com/ChinemeremChigbo/LeetCode-Badges/main/Media/Badges/Annual-Medals/GIF/2026-50-lg.gif" alt="LeetCode 50 Days 2026" width="80" />
       </a>
       <a href="https://leetcode.com/u/senthilrajar/">
@@ -144,9 +147,6 @@ Hi, I am **Senthil Raja R**, an AI Automation Engineer and Backend Developer bas
       </a>
       <a href="https://leetcode.com/u/senthilrajar/">
         <img src="https://raw.githubusercontent.com/ChinemeremChigbo/LeetCode-Badges/main/Media/Badges/Daily-Medals/GIF/5.gif" alt="LeetCode May 2026" width="80" />
-      </a>
-      <a href="https://leetcode.com/u/senthilrajar/">
-        <img src="https://raw.githubusercontent.com/ChinemeremChigbo/LeetCode-Badges/main/Media/Badges/Study-Plan-Medals/GIF/Introduction_to_Pandas.gif" alt="LeetCode Intro to Pandas" width="80" />
       </a>
     </td>
     <td width="50%" align="center">
